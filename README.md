@@ -1,2 +1,2 @@
-# Data-exploration-and-visyalization
-this data is about visualization and explorization
+# Data-exploration-and-visualization
+This data is about visualization and explorization
